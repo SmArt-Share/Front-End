@@ -4,6 +4,12 @@ body{
 }
 
 #label{
-    padding: 10px; 
+    font-size: 20px; 
+    padding: 10px;
+    text-decoration: underline overline; 
+    text-decoration-color:#061B6D;  
 }
 
+h1{
+    color: #061B6D;
+}
