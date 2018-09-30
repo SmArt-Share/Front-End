@@ -1,10 +1,10 @@
 body{
     text-align: center; 
-    font-family:  'Montserrat', sans-serif;
+    font-family:  'Montserrat', sans-serif; 
 }
 
 #label{
-    font-size: 20px; 
+    font-size: 25px; 
     padding: 10px;
     text-decoration: underline overline; 
     text-decoration-color:#061B6D;  
@@ -13,3 +13,4 @@ body{
 h1{
     color: #061B6D;
 }
+
